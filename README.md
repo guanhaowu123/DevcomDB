@@ -3,7 +3,6 @@ DEVCOMdb currently contains a priori knowledge base data from seven vertebrate s
 remotes::install_github("guanhaowu123/DEVCOMdb")
 devtools::install_github("guanhaowu123/DEVCOMdb")
 
-library(DEVCOMdb)
 library(dplyr)
 library(DevcomDB)
 library(igraph)
